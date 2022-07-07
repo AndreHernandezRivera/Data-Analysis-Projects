@@ -5,4 +5,4 @@ Performing Exploratory Data Analysis to a personality test dataset to see what f
 
 
 
-The penguins folder is an entirely different dataset, well known to machine learning prediction, where I experiment with what a traditional preprocessing and  binary classification could look like.
+The penguins folder is an entirely different dataset, well known to machine learning prediction, where I experiment with what a more thorough preprocessing pipeline and  binary classification could look like.
