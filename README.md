@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-Performing Exploratory Data Analysis to a personality test dataset to see what features could be predicted on for classification. In the notebook, I attempted to see if country country classification could work based on personalities, and other characteristics.
+Performing Exploratory Data Analysis on a personality dataset to see what features could be predicted on for classification. In the notebook, I attempted to see if country country classification could work based on personalities, and other characteristics.
 
 
 
